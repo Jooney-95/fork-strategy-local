@@ -26,4 +26,6 @@ git checkout -b [be/feat/repository-test]
 git pull origin main
 ```
 
+## Confilct Solution
+fork 전략을 통해 2명 이상 협업자들이 같은 파일을 작업해야 하는 경우 충돌이 발생할 가능성이 높다.
 
